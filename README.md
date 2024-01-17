@@ -1,4 +1,4 @@
-#COUNTDOWNPDX-Stanley
+# COUNTDOWNPDX-Stanley
 A shoe/fashion store for street-wear
 
 Client: 
