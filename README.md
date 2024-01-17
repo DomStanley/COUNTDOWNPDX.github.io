@@ -1,7 +1,7 @@
 #COUNTDOWNPDX-Stanley
-##A shoe/fashion store for street-wear
+A shoe/fashion store for street-wear
 
-###Client: 
+Client: 
 >Countdown PDX
-###Content:
+Content:
 >Rare Shoes / Rare Clothing
