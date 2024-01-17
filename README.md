@@ -1,5 +1,5 @@
-# Portfolio-Stanley
-Small Portfolio For Career
+# COUNTDOWNPDX-Stanley
+A shoe/fashion store for street-wear
 
-Client: DomStanley
-Content: Videos I've Made, Graphics I've made.
+Client: Countdown PDX
+Content: Rare Shoes / Rare Clothing
